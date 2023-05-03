@@ -1,8 +1,8 @@
-let nome = prompt("Digite seu nome:") 
+// let nome = prompt("Digite seu nome:") 
 
-let idade = Number(prompt("Digite sua idade:"))
+// let idade = Number(prompt("Digite sua idade:"))
 
-let presenca = confirm("Confirme sua presença")
+// let presenca = confirm("Confirme sua presença")
 
 console.log("A(O) estudante", nome, "tem", idade, "anos. Presença:", presenca)
 
